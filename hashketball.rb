@@ -1,5 +1,5 @@
 # Write your code here!
-load 'pry'
+require 'pry'
 
 def game_hash
 basketball_data = {}
