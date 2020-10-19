@@ -12,7 +12,7 @@ basketball_data = {
     ]
     binding.pry
 
-  }} ,
+  }} 
 #   away:{
 #     team_name: "",
 #     colors: ["",""],
