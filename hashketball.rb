@@ -16,7 +16,7 @@ binding.pry
 #     team_name: "",
 #     colors: ["",""],
 #     players: [
-# 
+#
 #     ]
 #  }
 # }
