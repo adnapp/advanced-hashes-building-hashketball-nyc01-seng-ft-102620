@@ -6,7 +6,7 @@ basketball_data = {
     team_name: "Brooklyn Nets",
     colors: ["Black","White"],
     players: [
-      {player_name: },
+      {player_name: 1},
       {number: },
       {shoe: },
       {points: },
